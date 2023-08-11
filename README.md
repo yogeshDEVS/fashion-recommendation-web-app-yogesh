@@ -1,4 +1,4 @@
-# product-recommendation-web-app-yogesh
+# fashion-recommendation-web-app-yogesh
 
 How to Use
 Clone this repository to your local machine.
