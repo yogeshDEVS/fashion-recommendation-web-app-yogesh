@@ -20,7 +20,7 @@ Streamlit
 OpenCV
 NumPy
 Scikit-learn
-
+Dataset Link : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 Getting Started
 1. Install the required dependencies using:
